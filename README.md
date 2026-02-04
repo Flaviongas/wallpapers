@@ -9,7 +9,7 @@
 ![](./earth.png)
 ![](./esoteric.jpg)
 ![](./eva-01.png)
-![](./idkhow.jpg)
+![](./idkhow.png)
 ![](./neovim.png)
 ![](./nix.png)
 ![](./nord-chainsaw.png)
