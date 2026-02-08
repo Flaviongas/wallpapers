@@ -1,6 +1,5 @@
 # Wallpapers
 ![](./nix.png)
-![](./4k-Agent-Cypher-Valorant-4K-Wallpaper.jpg)
 ![](./a_group_of_old_computer_equipment.png)
 ![](./all_your_problems.jpg)
 ![](./atari.jpg)
@@ -21,6 +20,5 @@
 ![](./tv_severance_lumon_black.png)
 ![](./ultrakill-red-1.jpg)
 ![](./siames.png)
-![](./Valorant_EP8_Teaser_Cypher_Reborn.jpg)
 ![](./camera.png)
 ![](./heart.png)
