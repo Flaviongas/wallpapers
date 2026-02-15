@@ -7,7 +7,6 @@
 ![](./cpu.webp)
 ![](./earth.png)
 ![](./esoteric.jpg)
-![](./eva-01.png)
 ![](./idkhow.png)
 ![](./neovim.png)
 ![](./nix.png)
