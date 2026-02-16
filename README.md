@@ -22,6 +22,6 @@
 ![](./camera.png)
 ![](./heart.png)
 ![](./wow.png)
-![](./girl_countdown.jpg)
+![](./girl_countdown.png)
 ![](./TVA.png)
 ![](./tva_jene_yeo.jpg)
