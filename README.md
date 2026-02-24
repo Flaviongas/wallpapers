@@ -29,4 +29,4 @@
 ![](./solar_system_solarized.png)
 ![](./serial_experiments_lain.png)
 ![](./alpha_centauri.png)
-![](./cybermen.jpg)
+![](./cybermen.png)
