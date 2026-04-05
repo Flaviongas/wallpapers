@@ -31,3 +31,4 @@
 ![](./alpha_centauri.png)
 ![](./cybermen.png)
 ![](./su_hand.png)
+![](./sisyphus.webp)
