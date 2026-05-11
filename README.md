@@ -33,3 +33,7 @@
 ![](./su_hand.png)
 ![](./sisyphus.webp)
 ![](./sakamoto.png)
+![](./ENA.png)
+![](./LDR.png)
+![](./zima_blue.png)
+![](./girl_mechanic.png)
