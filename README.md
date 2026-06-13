@@ -38,3 +38,4 @@
 ![](./girl_mechanic.png)
 ![](./doorman.png)
 ![](./hidden_king.webp)
+![](./dora_innocence.png)
