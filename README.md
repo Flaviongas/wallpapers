@@ -37,3 +37,4 @@
 ![](./zima_blue.png)
 ![](./girl_mechanic.png)
 ![](./doorman.png)
+![](./hidden_king.webp)
