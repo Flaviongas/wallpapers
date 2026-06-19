@@ -39,3 +39,4 @@
 ![](./doorman.png)
 ![](./hidden_king.webp)
 ![](./dora_innocence.png)
+![](./hatsune_bill.png)
