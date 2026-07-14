@@ -43,3 +43,4 @@
 ![](./viktor_mage.png)
 ![](./relativity.png)
 ![](./CHAOS.png)
+![](./lord_of_mysteries.png)
