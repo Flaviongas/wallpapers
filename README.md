@@ -9,7 +9,6 @@
 ![](./esoteric.jpg)
 ![](./idkhow.png)
 ![](./neovim.png)
-![](./nix.png)
 ![](./nord-chainsaw.png)
 ![](./phi.png)
 ![](./planets_atom.jpg)
@@ -44,3 +43,4 @@
 ![](./relativity.png)
 ![](./CHAOS.png)
 ![](./lord_of_mysteries.png)
+![](./vox_resist.png)
