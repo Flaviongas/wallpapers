@@ -45,3 +45,6 @@
 ![](./lord_of_mysteries.png)
 ![](./vox_resist.png)
 ![](./tarot.jpg)
+![](./big_brother_is_watching_you.jpg)
+![](./david_cameras.jpg)
+![](./morse_SOS.png)
