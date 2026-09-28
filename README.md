@@ -48,3 +48,4 @@
 ![](./big_brother_is_watching_you.png)
 ![](./david_cameras.jpg)
 ![](./morse_SOS.png)
+![](./artotzka.png)
